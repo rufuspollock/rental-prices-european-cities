@@ -1,0 +1,11 @@
+resources:
+  - name: xxx
+    path: rental-costs.csv
+    schema:
+      fields:
+        - name: Rank
+          type: number
+        - name: City
+          type: string
+        - name: Rent per month €
+          type: number
