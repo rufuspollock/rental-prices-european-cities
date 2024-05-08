@@ -11,7 +11,7 @@ This is a simple overview of rental costs for a 1 bed apartment in major europea
 
 ### Cities under €400 a month!
 
-<img width="637" alt="image" src="https://github.com/rufuspollock/rental-prices-european-cities/assets/180658/5def365d-6d7c-4675-92da-3c331d785071">
+<img width="637" alt="image" src="https://github.com/rufuspollock/rental-prices-european-cities/assets/180658/5def365d-6d7c-4675-92da-3c331d785071" />
 
 ### The cheapest cities are all Ukraine and Russia 😬
 
