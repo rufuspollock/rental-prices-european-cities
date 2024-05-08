@@ -1,5 +1,5 @@
 ---
-title: Rental Prices in European Cities:
+title: Rental Prices in European Cities
 resources:
   - name: xxx
     path: rental-costs.csv
